@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lauratoma
-- 👀 I’m interested in applied algorithms for large data
-- 🌱 I’m currently learning all sorts of stuff
+- 👀 I’m interested in teaching computer science. Research-wise, I'm interested in applied algorithms for large data
+- 🌱 I’m currently learning how to use github in my classes
 - 💞️ I’m looking to collaborate on efficient algorithms
 
 
