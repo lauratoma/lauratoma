@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lauratoma
-- 👀 I’m interested in teaching computer science. My research is applied algorithms for large data
-- 🌱 I’m  learning how to use github in my classes
-
+- 👀  I am a Comp Sci professor at a liberal arts college, and my research area is algorithms for big data.
+- 🌱 
 
 
 <!---
