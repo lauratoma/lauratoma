@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lauratoma
-- 👀  I am a Comp Sci professor at a liberal arts college, and my research area is algorithms for big data.
+- 👀  My research area is applied algorithms.
 - 🌱 
 
 
